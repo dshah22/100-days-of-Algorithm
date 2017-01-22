@@ -11,7 +11,7 @@ I joined the #100DaysOfAlgorithm Challenge.
 
 2) [2_Simple_Sum_Array](Algorithms/2_Simple_sum_array.java) 
 
-3) [3_Compare_Triplets](Algorithms/3_compare_triplets) 
+3) [3_Compare_Triplets](Algorithms/3_compare_triplets.java) 
 
 4) [4_Very_Big_Sum](Algorithms/4_Very_Big_Sum.java)
 
