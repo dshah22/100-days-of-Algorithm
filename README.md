@@ -37,3 +37,11 @@ I joined the #100DaysOfAlgorithm Challenge.
 12) [12_Apple_and_Orange](Algorithms/12_Apple_and_Orange.java)
 
 13) [13_Kangaroo](Algorithms/13_Kangaroo.java)
+
+# Day 3: January 22, 2017
+
+14) [14_Between_2_Sets](Algorithms/14_Between_2_Sets.java)
+
+15) [15_Divisible_Sum_Pairs](Algorithms/15_Divisible_Sum_Pairs.java)
+
+16) [16_Bon_Appétit](Algorithms/16_Bon_Appetit.java)
