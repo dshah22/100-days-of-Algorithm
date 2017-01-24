@@ -1,5 +1,8 @@
 # 100-days-of-Algorithm
-Solutions to 100 days of algorithm challenge
+
+I joined the #100DaysOfAlgorithm Challenge.
+
+Here are my solutions to HackerRank Algorithm Problems
 
 ##Logs 
 
@@ -45,3 +48,16 @@ I joined the #100DaysOfAlgorithm Challenge.
 15) [15_Divisible_Sum_Pairs](Algorithms/15_Divisible_Sum_Pairs.java)
 
 16) [16_Bon_Appétit](Algorithms/16_Bon_Appetit.java)
+
+# Day 4: January 23, 2017
+
+17) [17_Sock_Merchant](Algorithms/17_Sock_Merchant.java)
+
+18) [18_Angry_Professor](Algorithms/18_Angry_Professor.java)
+
+19) [19_Beautiful_Days](Algorithms/19_Beautiful_Days.java)
+
+20) [20_Viral_Advertising](Algorithms/20_Viral_Advertising.java)
+
+21) [21_Save_Prisoner](Algorithms/21_Save_Prisoner.java)
+
