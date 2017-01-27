@@ -61,3 +61,17 @@ I joined the #100DaysOfAlgorithm Challenge.
 
 21) [21_Save_Prisoner](Algorithms/21_Save_Prisoner.java)
 
+# Day 5: January 24, 2017
+
+22) [22_Jumping_Clouds](Algorithms/22_Jumping_Clouds.java)
+
+#Day 6: January 25, 2017
+
+23) [23_Find_Digits](Algorithms/23_Find_Digits.java)
+
+#Day 7: January 26, 2017
+
+24) [24_XL_Factorials](Algorithms/24_XL_Factorials.java)
+
+25) [25_Append_and_Delete](Algorithms/25_Append_and_Delete.java)
+
